@@ -3,15 +3,18 @@
 Este repositório foi criado com o objetivo de auxiliar meus estudos no desenvolvimento de jogos utilizando a engine Unity. O foco principal é organizar conhecimentos sobre game design, programação e estrutura de jogos, utilizando o NotebookLM como ferramenta de apoio para aprendizado e exploração de conteúdo.
 
 📌 Os objetivos deste projeto são:
+
   Aprender conceitos fundamentais de desenvolvimento de jogos;
   Melhorar minhas habilidades em programação com C# na Unity;
   Entender melhor level design e estrutura de jogos;
   Utilizar IA para otimizar estudos e resolução de dúvidas.
 
 📚 As seguintes fontes foram utilizadas como base de estudo:
+
   https://gamedesignskills.com/game-design/video-game-level/
   https://docs.unity3d.com/Manual/index.html
   https://docs.unity3d.com/6000.3/Documentation/ScriptReference/index.html
+  
 Essas fontes foram selecionadas por serem confiáveis e relevantes para o aprendizado de desenvolvimento de jogos e uso da Unity.
 
 🧠 Durante o uso do NotebookLM, foram testados diferentes tipos de prompts para obter melhores respostas.
