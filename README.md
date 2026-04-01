@@ -25,40 +25,63 @@ Essas fontes foram selecionadas por serem confiáveis e relevantes para o aprend
 🧠 Durante o uso do NotebookLM, foram testados diferentes tipos de prompts para obter melhores respostas.
 
 Exemplos de prompts utilizados:
+
   "Explique como funciona o sistema de cenas na Unity"
+  
   "Como criar um sistema de movimentação básica em C# na Unity?"
+  
   "Quais são boas práticas de level design para jogos 2D?"
+  
 Aprendizados:
+
   Perguntas mais específicas geram respostas melhores;
+  
   Incluir contexto (ex: tipo de jogo) melhora a qualidade da resposta;
+  
   Às vezes a IA responde de forma genérica, sendo necessário refinar o prompt.
+  
 Dificuldades encontradas:
+
   Algumas respostas eram superficiais;
+  
   Necessidade de reformular perguntas várias vezes;
+  
   Falta de exemplos práticos em algumas respostas.
 
 📌 Resumo dos principais conceitos
 
   Unity: Engine de desenvolvimento de jogos que utiliza C# como linguagem principal;
+  
   Game Design: Planejamento da experiência do jogador, incluindo mecânicas e fases;
+  
   Level Design: Criação de fases equilibradas e interessantes;
+  
   Scripts: Código em C# usado para controlar comportamento dos objetos no jogo.
   
 📚 Glossário
 
   GameObject: Objeto básico dentro da Unity;
+  
   Component: Funcionalidades adicionadas a um GameObject;
+  
   Scene: Cena onde o jogo acontece;
+  
   Script: Código que define comportamentos;
+  
   Prefab: Objeto reutilizável.
   
 🤖 Prompts reutilizáveis
 
   "Explique [conceito] na Unity com exemplos práticos"
+  
   "Como implementar [funcionalidade] em C# na Unity?"
+  
   "Quais são boas práticas para [tema de game design]?"
+  
   "Me mostre um exemplo simples de código para [função] na Unity"
   
 🚀 Considerações Finais
-  Este repositório representa meu processo de aprendizado utilizando IA como apoio. E
-  le mostra não apenas os resultados, mas também o caminho percorrido, incluindo testes, erros e melhorias ao longo do estudo.
+
+  Este repositório representa meu processo de aprendizado utilizando IA como apoio. 
+  
+  Ele mostra não apenas os resultados, mas também o caminho percorrido, incluindo testes, erros e melhorias ao longo do estudo.
