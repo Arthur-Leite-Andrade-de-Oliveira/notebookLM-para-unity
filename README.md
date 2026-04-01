@@ -5,14 +5,19 @@ Este repositório foi criado com o objetivo de auxiliar meus estudos no desenvol
 📌 Os objetivos deste projeto são:
 
   Aprender conceitos fundamentais de desenvolvimento de jogos;
+  
   Melhorar minhas habilidades em programação com C# na Unity;
+
   Entender melhor level design e estrutura de jogos;
+  
   Utilizar IA para otimizar estudos e resolução de dúvidas.
 
 📚 As seguintes fontes foram utilizadas como base de estudo:
 
   https://gamedesignskills.com/game-design/video-game-level/
+  
   https://docs.unity3d.com/Manual/index.html
+  
   https://docs.unity3d.com/6000.3/Documentation/ScriptReference/index.html
   
 Essas fontes foram selecionadas por serem confiáveis e relevantes para o aprendizado de desenvolvimento de jogos e uso da Unity.
