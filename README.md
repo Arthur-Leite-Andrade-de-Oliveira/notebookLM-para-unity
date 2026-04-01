@@ -1,6 +1,6 @@
-#🎮NotebookLM_para_Unity
+#NotebookLM_para_Unity
 
-Este repositório foi criado com o objetivo de auxiliar meus estudos no desenvolvimento de jogos utilizando a engine Unity. O foco principal é organizar conhecimentos sobre game design, programação e estrutura de jogos, utilizando o NotebookLM como ferramenta de apoio para aprendizado e exploração de conteúdo.
+🎮 Este repositório foi criado com o objetivo de auxiliar meus estudos no desenvolvimento de jogos utilizando a engine Unity. O foco principal é organizar conhecimentos sobre game design, programação e estrutura de jogos, utilizando o NotebookLM como ferramenta de apoio para aprendizado e exploração de conteúdo.
 
 📌 Os objetivos deste projeto são:
 
